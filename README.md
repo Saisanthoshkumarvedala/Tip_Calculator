@@ -17,5 +17,5 @@ Each person should pay: $44.0
 ```
 
 
-## 🛠 Built With
+##  Built With
 - Python 3.13
